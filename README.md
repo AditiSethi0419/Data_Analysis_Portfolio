@@ -26,7 +26,7 @@
 **Description:** Practise Dashboard to learn KPI’s in excel.I have used conditional formatting ,excel formulas , charts and forms controls to complete the dashboard. The data used is a stance of nba 2017 and 2018 season, specifically names of 50 bset players in ascending order the number of games they play , average points , rebounds and assists. The data provided also have a target table to compare the performance of each player.
 ### Project 4: Animated Chart Using VBA - Excel
 **Description:** Practise dashboard to learn VBA in excel. This dashboard displays a animated chart . I had used VBA to control the animation ,various excel functions to model data and form-control.
-### Project 5: [Comprehensive Hospital Management Dashboard - Power BI](github.com/AditiSethi0419/BI_Projects/blob/main/Nevis%20Comprehensive%20Dashboard.pdf)
+### Project 5: [Comprehensive Hospital Management Dashboard - Power BI](https://github.com/AditiSethi0419/BI_Projects/blob/main/Nevis%20Comprehensive%20Dashboard.pdf)
 **Description:** This is a dashboard that tracks all the activies going on in the Hospital Management Portal. I made this dashboard during my First year of employment, so the data show is dummy data.This hospital management dashboard provides a breakdown of crucial department and patient data. With this dashboard, we can answer a broad range of questions such as:
 - Number of total patients served.
 - Number of unique patients Served.
@@ -48,7 +48,7 @@
 - Monthly Drug Utilisation Report.
 - Track of expired and expiring medicines.
 - Monthly Drug Utilisation Report.
-### Project 6: Pharmacy Management Dashboard - Power BI
+### Project 6: [Pharmacy Management Dashboard - Power BI](https://github.com/AditiSethi0419/BI_Projects/blob/main/Barataria%20Dashboard.pdf)
 **Description:** This dashboard tracks and analyze the Pharmacy Management System. I made this dashboard during my First year of employment, so the data show is dummy data. This hospital management dashboard provides a breakdown of medidines and patient data. With this dashboard, we can answer a broad range of questions such as:
 - Total number of patients served.
 - Unique number of patients served.
