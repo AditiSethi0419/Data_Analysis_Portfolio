@@ -7,7 +7,7 @@
 - Project 4: Animated Chart Using VBA - Excel
 - Project 5: Comprehensive Hospital Management Dashboard - Power BI
 - Project 6: Pharmacy Management Dashboard - Power BI
-### Project 1: Snack Sales Analysis
+### Project 1: [Snack Sales Analysis](https://github.com/AditiSethi0419/Excel_Learning_Projects)
 **Description:** Sales data analysis report using Pivot Tables - Excel.This workbook consists of questions to modeloff a retail store data analysis questions . I picked a transaction level data of the year 2020. The data consists of 5 tables and there are 42684 transactions.Th following points are included in the Excel workbook:
 - Breakdown by product category.
 - Breakdown by sales.
@@ -15,16 +15,16 @@
 - Breaddown by day of month.
 - Filtering options by Monthname , Manager , Gender and size are provided for all the 4 pivot charts.
 - Futher the data is divided under the categories Amount and Quantity.
-### Project 2: Buisness Sales Dashboard - Excel
+### Project 2: [Buisness Sales Dashboard - Excel](https://github.com/AditiSethi0419/Excel_Learning_Projects)
 **Description:** I have used excel formulas,conditional formatting , sparklines , charts , camera tool and data validation. This dashboard covers the following areas:
 - What is the revenue month by month.
 - Number of new students who purchased the courses.
 - Revenue Per Month, Students Per Month, Youtube Subscribers Per Month and Website Unique Visitors Per Month.
 - Pivot charts for detailed analysis by various categories.
 - Detailed interactive table of the data.
-### Project 3: KPI Dashboard - Excel
+### Project 3: [KPI Dashboard - Excel](https://github.com/AditiSethi0419/Excel_Learning_Projects)
 **Description:** Practise Dashboard to learn KPI’s in excel.I have used conditional formatting ,excel formulas , charts and forms controls to complete the dashboard. The data used is a stance of nba 2017 and 2018 season, specifically names of 50 bset players in ascending order the number of games they play , average points , rebounds and assists. The data provided also have a target table to compare the performance of each player.
-### Project 4: Animated Chart Using VBA - Excel
+### Project 4: [Animated Chart Using VBA - Excel](https://github.com/AditiSethi0419/Excel_Learning_Projects)
 **Description:** Practise dashboard to learn VBA in excel. This dashboard displays a animated chart . I had used VBA to control the animation ,various excel functions to model data and form-control.
 ### Project 5: [Comprehensive Hospital Management Dashboard - Power BI](https://github.com/AditiSethi0419/BI_Projects/blob/main/Nevis%20Comprehensive%20Dashboard.pdf)
 **Description:** This is a dashboard that tracks all the activies going on in the Hospital Management Portal. I made this dashboard during my First year of employment, so the data show is dummy data.This hospital management dashboard provides a breakdown of crucial department and patient data. With this dashboard, we can answer a broad range of questions such as:
